@@ -1,0 +1,10 @@
+#xml file
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/python-basics.iml
+.idea/vcs.xml
+
+# IPython
+profile_default/
+ipython_config.py
